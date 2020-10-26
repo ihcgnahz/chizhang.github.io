@@ -4,15 +4,15 @@
 
 ### Spatial Analytics
 
-[Project 1 Title](/sample_page)
+[Risk Prediction of Theft from Buildings in Chicago](/html/CrimeRatePredict.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Hedonic Home Price Prediction - Miami/Miami Beach](/html/HouseValuePredict.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[TOD Study in Los Angeles](/html/TOD.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
