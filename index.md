@@ -5,15 +5,15 @@
 ### Spatial Analytics
 
 [Risk Prediction of Theft from Buildings in Chicago](/html/CrimeRatePredict.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/crime.png?raw=true"/>
 
 ---
-[Hedonic Home Price Prediction - Miami/Miami Beach](/html/HouseValuePredict.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hedonic Home Price Prediction - Miami/Miami Beach](/html/HomeValuePredict.html)
+<img src="images/homeprice.png?raw=true"/>
 
 ---
 [TOD Study in Los Angeles](/html/TOD.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TOD.png?raw=true"/>
 
 ---
 
