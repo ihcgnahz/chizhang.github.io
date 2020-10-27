@@ -20,11 +20,11 @@
 ### Data Visualization with Python
 
 ---
-[Exploring Evictions and Code Violations in Philadelphia](/python%20visualization/assignment-3.ipynb)
+[Exploring Evictions and Code Violations in Philadelphia](/python/assignment-3.html)
 <img src="images/codeviolation.gif?raw=true"/>
 
 ---
-[Shootings Victims in Philadelphia](/python%20visualization/assignment-2.ipynb)
+[Shootings Victims in Philadelphia](/python/assignment-2.html)
 <img src="images/shoot.gif?raw=true"/>
 
 ---
