@@ -17,6 +17,18 @@
 
 ---
 
+### Data Visualization with Python
+
+---
+[Exploring Evictions and Code Violations in Philadelphia](/python%20visualization/assignment-3.ipynb)
+<img src="images/codeviolation.gif?raw=true"/>
+
+---
+[Shootings Victims in Philadelphia](/python%20visualization/assignment-2.ipynb)
+<img src="images/shoot.gif?raw=true"/>
+
+---
+
 ### Urban Design Works
 
 - [ISSUU](https://issuu.com/alumixx/docs/gatech_mud_zhang_chi)
