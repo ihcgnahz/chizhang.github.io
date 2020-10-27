@@ -19,7 +19,6 @@
 
 ### Data Visualization with Python
 
----
 [Exploring Evictions and Code Violations in Philadelphia](/python/assignment-3.html)
 <img src="images/codeviolation.gif?raw=true"/>
 
