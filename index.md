@@ -1,11 +1,10 @@
 ## Portfolio
 
 ---
-
 ### Spatial Analytics
 
-[Risk Prediction of Theft from Buildings in Chicago](/html/CrimeRatePredict.html)
-<img src="images/crime.png?raw=true"/>
+[People-based Machine Learning for a Housing Subsidy Program](/html/PeopleBasedMachineLearning.html)
+<img src="images/peoplebasedml.jpg?raw=true"/>
 
 ---
 [Hedonic Home Price Prediction - Miami/Miami Beach](/html/HomeValuePredict.html)
