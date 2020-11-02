@@ -8,7 +8,7 @@
 
 ---
 [Risk Prediction of Theft from Buildings in Chicago](/html/CrimeRatePredict.html.html)
-<img src="images/crime.jpg?raw=true"/>
+<img src="images/crime.png?raw=true"/>
 
 ---
 [Hedonic Home Price Prediction - Miami/Miami Beach](/html/HomeValuePredict.html)
