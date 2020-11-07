@@ -7,7 +7,7 @@
 <img src="images/peoplebasedml.jpg?raw=true"/>
 
 ---
-[Risk Prediction of Theft from Buildings in Chicago](/html/CrimeRatePredict.html.html)
+[Risk Prediction of Theft from Buildings in Chicago](/html/CrimeRatePredict.html)
 <img src="images/crime.png?raw=true"/>
 
 ---
